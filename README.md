@@ -1,6 +1,5 @@
 
 # Steps to reach till here
-
 1. Make a repo in GitHub(cloud).
 2. Make a root project folder in your local machine.
 3. CD in that folder and open it's terminal.
@@ -11,3 +10,4 @@
 8. Install NextJs - `npx create-next-app@15.0.3`.
 9. Install ShadCn - `npx shadcn@2.1.6 init`.
 10. Add all the ShadCn Components with particular version at once - `npx shadcn@2.1.6 add --all`
+<hr/>
