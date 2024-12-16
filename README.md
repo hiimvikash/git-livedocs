@@ -12,8 +12,10 @@
 9. Install ShadCn - `npx shadcn@2.1.6 init`.
 10. Add all the ShadCn Components with particular version at once - `npx shadcn@2.1.6 add --all`
 <!-- ---------------------------------------------- -->
-11. `documents/[docId]/page.tsx`
-12.  `documents/[docId]/editor.tsx` -- add class to editor.
+11. install tip-tap editor - `npm install @tiptap/react@2.10.2 @tiptap/pm@2.10.2 @tiptap/starter-kit@2.10.2 --legacy-peer-deps`
+12. `documents/[docId]/page.tsx`
+13. `documents/[docId]/editor.tsx` -- add class to editor.
+<!-- ---------------------------------------------- -->
+14. setup all the extension for editor.
 
 
-<!-- npm install @tiptap/react@2.10.2 @tiptap/pm@2.10.2 @tiptap/starter-kit@2.10.2 --legacy-peer-deps -->
